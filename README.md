@@ -58,7 +58,7 @@ Documentation
 
 [core.contracts API](http://clojure.github.io/core.contracts/)
 
-See also the [wiki](/clojure/core.contracts/wiki) for some documentation and examples.
+See also the [wiki](https://github.com/clojure/core.contracts/wiki) for some documentation and examples.
 
 Developer Information
 ========================================
